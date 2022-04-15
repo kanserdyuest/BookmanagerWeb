@@ -11,3 +11,8 @@
 
 #### 说明
 克隆后idea打开配置好数据库信息和tomcat服务器目录就可以启动啦
+
+####前端模板下载地址
+下载:https://wwi.lanzoup.com/ifwfT038zg8b 
+<br>
+密码:dpoh
